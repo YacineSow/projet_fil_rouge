@@ -1,0 +1,8 @@
+Sel,100,5,
+pument,75,5,
+ognon,350,25,
+poivron,100,20,
+carotte,100,15,
+navet,250,7,
+haricot,400,40,
+obergine,700,9,

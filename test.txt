@@ -1,0 +1,4 @@
+lm,nh,569,78 458 12 74,fass,user,actif
+128,ka,4587,784125630,medine,user,inactif
+kane,mak,78965,765892147,rufisque,user,actif
+SallSow,by,1865,785201478,GT,admin,actif

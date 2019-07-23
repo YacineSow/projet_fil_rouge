@@ -1,0 +1,28 @@
+<?php
+$test=false;
+$login=$_POST['login'];
+$password=$_POST['password'];
+$auth=fopen('test.txt', 'r') ;
+
+if(isset($_POST['connecter'])){
+
+while(!feof($auth)){
+    $affi = trim(fgets($auth));
+    $user = explode(",",$affi);
+        if($user[3]=="admin" && $login==$user[1] && $password==$user[2]){
+            
+        }
+
+}
+    
+    //echo $user [0];
+    
+fclose($auth);
+if($test==false){
+    echo 'veuillez verifiez votre identifiant'; 
+}
+else{
+    header("location:acceuil.php");
+}
+}
+?>

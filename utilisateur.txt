@@ -1,0 +1,2 @@
+mamy,may,123,77 014 58 78,maka,user
+mami,ma,125,78 550 78 00,tamba,actif
